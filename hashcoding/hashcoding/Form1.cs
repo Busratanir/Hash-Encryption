@@ -79,5 +79,10 @@ namespace hashcoding
         {
             Decriptedilecek.Clear();
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

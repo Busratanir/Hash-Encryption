@@ -14,3 +14,4 @@ C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashco
 C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.dll
 C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.pdb
 C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.genruntimeconfig.cache
+C:\Users\90505\source\repos\hashcoding\hashcoding\obj\Debug\netcoreapp3.1\hashcoding.Properties.Resources.resources
